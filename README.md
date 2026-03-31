@@ -1,5 +1,5 @@
 # DMGAI
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/DMGAI/ecommerce website.git
 
 cd project-name
 
